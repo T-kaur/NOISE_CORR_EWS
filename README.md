@@ -37,7 +37,7 @@ This folder contains the code for gradient change analyses used to identify pre-
 The gradient_change_ews() function is called  through Rcode gradient_change_ews.R" file. After generating the stochastic time series from "1.Stochastic Time series simulation", import the time series in line 25. \
 The below example shows how the function works :\
 \
-## This file requires to import two additional Rcodes as_detect.R and where_as.R from the below mentioned reference.\
+This file requires to import two additional Rcodes as_detect.R and where_as.R from the below mentioned reference.\
 \
 \
 #usage: gradient_change_ews <- function(corr,total_files)\
